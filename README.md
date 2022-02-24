@@ -33,5 +33,5 @@ npm install nodeopencv
 # Usage
 
 ```
-import {opencv} from 'nodeopencv'
+import cv from 'nodeopencv'
 ```
