@@ -1,5 +1,5 @@
 {
-  "name": "nodeopencv",
+  "name": "@louis49/nodeopencv",
   "version": "1.0.0",
   "description": "OpenCV for nodejs",
   "main": "index.js",
